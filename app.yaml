@@ -1,5 +1,5 @@
 application: to-duo-test
-version: 2
+version: 4
 runtime: php
 api_version: 1
 threadsafe: true
