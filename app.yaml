@@ -1,5 +1,5 @@
-application: todo-phpsp
-version: 1
+application: to-duo-test
+version: 2
 runtime: php
 api_version: 1
 threadsafe: true
