@@ -1,0 +1,22 @@
+{
+    "name": "duodraco/phpsp-todo",
+    "description": "Simple To-Do App for GAE",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anderson 'Duodraco' Casimiro",
+            "email": "o@duodra.co"
+        }
+    ],
+    "require":{
+        "php":">=5.4.0",
+        "silex/silex":"v1.2.0",
+        "drakojn/io":"0.1.1"
+    },
+    "autoload":{
+        "psr-4":{
+            "PHPSP\\":"application/library/PHPSP/"
+        }
+    }
+}
